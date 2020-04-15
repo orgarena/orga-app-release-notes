@@ -17,7 +17,7 @@ Innerhalb einer Checkliste können die Aufgaben nun ebenfalls per Drag & Drop ne
 
 - **Verschieben (und Kopieren) von Aufgaben**
 Änlich wie bei den Checklisten können auch einzelne Aufgaben per Drag % Drop in andere Checklisten verschoben werden. 
-![Aufgabe in Checkliste verschieben](\Bilder\aufgaben02.gif)
+![Aufgabe in Checkliste verschieben](Bilder/aufgaben02.gif)
 
 - **Layout-Optimierung in Checklistenverwaltung**
 Einhergehend mit der Drag & Drop Funktionalität wurde die bisherige Funktionsbereichsauswahl in der Checklistenverwaltung entfernt. Statt dessen werden nun alle Funktionsbereiche aufgelistet, auf die der Bearbeiter Zugriff hat. Dies ist übersichtlicher und erleichtert die Checklistenbearbeitung. 
@@ -45,11 +45,11 @@ Aktuell war das Versenden von Mitteilungen den Veranstaltungsleitern und Funktio
 - **Verlinkungen für Rufnummern und Webseiten**
 Einführung der Markdown-Formatierung (siehe https://markdown.de/): 
 Ein mächtiges und gleichzeitig einfaches Werkzeug, um die leichtgewichtigen Info-Kategorien und Aktionen um individuelle Inhalte und Funktionalitäten aufzuwerten. So können insbesondere Rufnummern und Webseiten in einer einfachen Syntax angegeben werden, die dann in der App direkt angewählt werden können.
-![Verlinkungen](\Bilder\infokategorien01.gif)
+![Verlinkungen](Bilder/infokategorien01.gif)
 
 - **Erweiterte Formatierungen**
 Die Markdown-Syntax bringt auch weitere Formatierungsmöglichkeiten mit sich. Bisher konnten nur einfache, unformatierte Texte in Info-Kategorien und Aktionen verwendet werden. Mit Einführung der Markdown-Formatierung (siehe https://markdown.de/) lassen sich auch _Überschriften_, _Aufzählungslisten_ und Textschnitte wie _Fett_ und _Kursiv_ umsetzen. 
-![Formatierungen](\Bilder\infokategorien02.gif)
+![Formatierungen](Bilder/infokategorien02.gif)
 
 ## Authentifizierung
 - **Gast-User zulassen**
@@ -64,7 +64,7 @@ Dieses ist nun auch in der Bearbeitungsmaske mehrzeilig, sodass die Eingabe der 
 
 - **Klappfunktion in Checklisten und Dienstplan**
 Benutzer mit Berechtigungen in mehreren Funktionsbereichen können durch die neue Klappfunktion besser den Überblick bewahren. 
-![Klappfunktion](\Bilder\klappfunktion01.gif)
+![Klappfunktion](Bilder/klappfunktion01.gif)
 
 - **Datumformat im Prüfprotokoll korrigiert**
 Der Meldezeitpunkt von Aufgaben wurde im Prüfprotokoll mit einer falschen Zeitzone formatiert, sodass der Zeitpunkt verschoben schien. Dies ist nun korrigiert.
