@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - MVD macht mit!
 
 You can use the [editor on GitHub](https://github.com/orgarena/orga-app-release-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
