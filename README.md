@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Release 2020-04](/Release_2020-04/)
+For more details see [Release 2020-04](Release_2020-04/)
 
 ### Jekyll Themes
 
