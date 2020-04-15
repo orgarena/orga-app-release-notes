@@ -9,11 +9,11 @@ In manchen Situationen kommt es vor, dass erledigte Aufgaben (OK-Status) mit ein
 
 - **Verschieben (und Kopieren) von Checklisten**
 Es ist nun möglich, in der Checklistenverwaltung ganze Checklisten zu kopieren und per Drag & Drop zu verschieben. Und dies auch in andere Funktionsbereiche. Damit wird die Organisation und Nachbesserung der geplanten Abläufe deutlich vereinfacht.<br>
-![Checklisten sortieren](\Bilder\checklisten01.gif)
+![Checklisten sortieren](Bilder/checklisten01.gif)
 
 - **Sortieren von Aufgaben**
 Innerhalb einer Checkliste können die Aufgaben nun ebenfalls per Drag & Drop neu sortiert werden. Damit ist es einfacher, die gedachte Abarbeitungsreihenfolge festzulegen, wenn gleich sich die Sortierung nicht auf die Erinnerungen und Eskalationen auswirkt.<br>
-![Aufgaben sortieren](\Bilder\aufgaben01.gif)
+![Aufgaben sortieren](Bilder/aufgaben01.gif)
 
 - **Verschieben (und Kopieren) von Aufgaben**
 Änlich wie bei den Checklisten können auch einzelne Aufgaben per Drag % Drop in andere Checklisten verschoben werden. 
