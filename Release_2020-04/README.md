@@ -34,6 +34,9 @@ Veranstaltungen können jetzt durch den diensthabenden Veranstaltungsleiter offi
 - **Veröffentlichung zurückziehen**
 Bisher war es nicht möglich, bereits veröffentlichte Veranstaltungen noch einmal zurückzuziehen, sodass fehlenden Informationen nachgepflegt oder versehentlich getätigte Veröffentlichungen korrigiert werden konnten. Dies ist jetzt im Backend über die neue Funktion _Veröffentlichung zurückziehen_ möglich.
 
+- **Automatische Prüfberichte**
+Es wird nun automatisch ein zweiter Prüfbericht erzeugt, sobald die Veranstaltung beendet wurde. Damit gibt es aktuell 2 Prüfberichte, einen zur Veranstaltungsfreigabe und einen zum Veranstaltungsende.
+
 ## Mitteilungen
 
 - **Flexible Berechtigungen für Mitteilungen**
