@@ -1,7 +1,3 @@
----
-footerTitle: ORGArena
----
-
 # Neuigkeiten aus Release 2020-03 (ab Version 1.3.222)
 
 ## Erweiterungen der Checklisten
