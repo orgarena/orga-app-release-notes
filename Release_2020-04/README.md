@@ -43,7 +43,7 @@ Es wird nun automatisch ein zweiter Prüfbericht erzeugt, sobald die Veranstaltu
 ## Mitteilungen
 
 - **Flexible Berechtigungen für Mitteilungen**
-Aktuell war das Versenden von Mitteilungen den Veranstaltungsleitern und Funktionsbereichs-Freigebern vorbehalten. Dieses starre Konstrukt wurde nun abgeschafft und durch Berechtigungen auf Rollen-Ebene ersetzt. Damit können Mitteilungen von jedem Mitarbeiter verschickt werden, sofern seine Rollenberechtigung dies vorsieht. Die Einstellung finden Sie in der _Funktionsbereiche und Rollen_ Seite im Backend.
+Aktuell war das Versenden von Mitteilungen den Veranstaltungsleitern vorbehalten. Dieses starre Konstrukt wurde nun abgeschafft und durch Berechtigungen auf Rollen-Ebene ersetzt. Damit können Mitteilungen von jedem Mitarbeiter verschickt werden, sofern seine Rollenberechtigung dies vorsieht. Die Einstellung finden Sie in der _Funktionsbereiche und Rollen_ Seite im Backend.
 
 ## Info-Kategorien und Aktionen
 
