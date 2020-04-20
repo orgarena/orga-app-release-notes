@@ -1,7 +1,7 @@
 # Neuigkeiten aus Release 2020-04
 
-* Desktop Client ab Version 1.2.0
-* Mobile Client ab Version 1.8.0
+* Desktop Client ab Version 1.3.0
+* Mobile Client ab Version 1.9.0
 
 ## Erweiterungen der Checklisten
 - **Erinnerung und Eskalationen mit fester Uhrzeit** <br>
@@ -76,6 +76,12 @@ Dieses ist nun auch in der Bearbeitungsmaske mehrzeilig, sodass die Eingabe der 
 Benutzer mit Berechtigungen in mehreren Funktionsbereichen können durch die neue Klappfunktion besser den Überblick bewahren.
 
   ![Klappfunktion](Bilder/klappfunktion01.gif)
+
+
+- **Transparentere Darstellung der Erinnerungen und Eskalationen** <br>
+Die errechneten Erinnerungs- und Eskalationszeitpunkte werden nun innerhalb der Veranstaltung im Desktop Clients direkt unterhalb der Aufgabe dargestellt. Hier ist auch zu sehen, ob die Nachricht an die einzelnen Zielgruppen die Eskalationen versendet wird und ob dies schon geschehen ist.
+
+  ![ErinnerungUndEskalation](Bilder/erinnerung_und_eskalation.png)   
 
 - **Datumformat im Prüfprotokoll korrigiert** <br>
 Der Meldezeitpunkt von Aufgaben wurde im Prüfprotokoll mit einer falschen Zeitzone formatiert, sodass der Zeitpunkt verschoben schien. Dies ist nun korrigiert.
