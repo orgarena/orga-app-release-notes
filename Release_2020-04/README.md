@@ -8,7 +8,7 @@ Bisher war es immer nur möglich, die Erinnerungs- und Eskalationszeitpunkte der
 In manchen Situationen kommt es vor, dass erledigte Aufgaben (OK-Status) mit einer zusätzlichen Bemerkung versehen werden sollen. Gegebenenfalls auch mit einem Bild. Dies ist nun möglich, indem man eine Aufgabe noch einmal anwählt.
 
 - **Verschieben (und Kopieren) von Checklisten** <br>
-Es ist nun möglich, in der Checklistenverwaltung ganze Checklisten zu kopieren und per Drag & Drop zu verschieben. Und dies auch in andere Funktionsbereiche. Damit wird die Organisation und Nachbesserung der geplanten Abläufe deutlich vereinfacht.
+Es ist nun möglich, in der Checklistenverwaltung ganze Checklisten zu kopieren und per Drag & Drop zu verschieben. Und dies auch in andere Funktionsbereiche. Damit werden Organisation und Optimierung der geplanten Abläufe deutlich vereinfacht.
 
   ![Checklisten sortieren](Bilder/checklisten01.gif)
 
@@ -18,12 +18,12 @@ Innerhalb einer Checkliste können die Aufgaben nun ebenfalls per Drag & Drop ne
   ![Aufgaben sortieren](Bilder/aufgaben01.gif)
 
 - **Verschieben (und Kopieren) von Aufgaben** <br>
-Änlich wie bei den Checklisten können auch einzelne Aufgaben per Drag % Drop in andere Checklisten verschoben werden.
+Analog zu den Checklisten können auch einzelne Aufgaben per Drag % Drop in andere Checklisten verschoben werden.
 
   ![Aufgabe in Checkliste verschieben](Bilder/aufgaben02.gif)
 
 - **Layout-Optimierung in Checklistenverwaltung** <br>
-Einhergehend mit der Drag & Drop Funktionalität wurde die bisherige Funktionsbereichsauswahl in der Checklistenverwaltung entfernt. Statt dessen werden nun alle Funktionsbereiche aufgelistet, auf die der Bearbeiter Zugriff hat. Dies ist übersichtlicher und erleichtert die Checklistenbearbeitung.
+Einhergehend mit der Drag & Drop Funktionalität wurde die bisherige Funktionsbereichsauswahl in der Checklistenverwaltung entfernt. Stattdessen werden nun alle Funktionsbereiche aufgelistet, auf die der Bearbeiter Zugriff hat. Dies ist übersichtlicher und erleichtert die Checklistenbearbeitung.
  
 ## Veranstaltungsphasen
 
@@ -62,7 +62,7 @@ Die Markdown-Syntax bringt auch weitere Formatierungsmöglichkeiten mit sich. Bi
 
 ## Authentifizierung
 - **Gast-User zulassen** <br>
-Nun können externe Mitarbeiter oder Dienstleiter ohne eigenes Benutzer-Konto beim Club über ihre Mail-Adresse im Azure Acitive Directory als Gastuser eingeladen werden und sich damit im ORGA App System anmelden.
+Nun können externe Mitarbeiter oder Dienstleiter ohne eigenes Benutzer-Konto beim Club über ihre Mail-Adresse im Azure Active Directory als Gastuser eingeladen werden und sich damit im ORGA App System anmelden.
 
 ## Bugfixes & allgemeine Verbesserungen
 
@@ -81,7 +81,7 @@ Der Meldezeitpunkt von Aufgaben wurde im Prüfprotokoll mit einer falschen Zeitz
 Wurden die Berechtigungen in den Checklistendefinitionen geändert, hatte dies keine Auswirkungen auf die bereits geplanten Veranstaltungen und man musste betroffenen Checklisten neu in die Veranstaltung laden. Jetzt werden die geänderten Einstellungen auch direkt dahin übernommen.
 
 - **Fälschliche Aktivierung von Eskalationen behoben** <br>
-Es kamm vor, dass beim Administrieren von Aufgaben unabsichtlich Eskalationen eingestellt wurden, da die falschen Werte (aus der Erinnerung) geladen wurden. Dies passiert nun nicht mehr.
+Es kam vor, dass beim Administrieren von Aufgaben unabsichtlich Eskalationen eingestellt wurden, da die falschen Werte (aus der Erinnerung) geladen wurden. Dies passiert nun nicht mehr.
 
 - **Sonstiges** <br>
 Es gab vereinzelt Probleme, dass spieltagsbezogene Dokumente in der App nicht angezeigt wurden und Erinnerungen / Eskalation einer Aufgabe ausgelöst wurden, obwohl diese bereits abgehakt wurden. Jetzt sollte alles es wieder gehen.
