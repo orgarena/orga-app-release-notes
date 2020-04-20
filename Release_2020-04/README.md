@@ -1,7 +1,7 @@
 # Neuigkeiten aus Release 2020-04
 
 * Desktop Client ab Version 1.2.0
-* Mobile Client ab Version 1.7.0
+* Mobile Client ab Version 1.8.0
 
 ## Erweiterungen der Checklisten
 - **Erinnerung und Eskalationen mit fester Uhrzeit** <br>
