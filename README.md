@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages - MVD macht mit!
+# Was gibt es Neues?
 
-You can use the [editor on GitHub](https://github.com/orgarena/orga-app-release-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Willkommen auf der Release-Notes Seite der ORGA App
+Die ORGA App lebt vom Imput unsere Kunden und Interessenten. Und wir sind stets dabei, neue Ideen und Anforderungen umzusetzen. Auf dieser Seite finden Sie für alle großen Programm-Updates die wichtigsten Informationen zu Änderungen und Erweiterungen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **[Release 2020-04](Release_2020-04/)** <br>
+Ein Vielzahl smarter Erweiterungen steht bereit, die insbesondere aus den Feedbacks im Rahmen der Workshops entstanden sind. Herzlichen Dank dafür!<br>
+Hier geht es zu den Details [Release 2020-04](Release_2020-04/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Fragen und Anregungen
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Release 2020-04](Release_2020-04/)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orgarena/orga-app-release-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sollten Sie Fragen oder Wünsche haben, erreichen Sie uns am besten per Mail  [info@orgarena.de](mailto:info@orgarena.de) 
