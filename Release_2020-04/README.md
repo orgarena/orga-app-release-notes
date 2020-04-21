@@ -1,6 +1,6 @@
 # Neuigkeiten aus Release 2020-04
 
-* Desktop Client ab Version 1.3.0
+* Desktop Client ab Version 1.4.0
 * Mobile Client ab Version 1.9.0
 
 ## Erweiterungen der Checklisten
