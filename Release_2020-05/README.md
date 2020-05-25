@@ -1,7 +1,7 @@
 # Neuigkeiten aus Release 2020-05
 
 * Desktop Client ab Version 1.7.0
-* Mobile Client ab Version 1.12.0
+* Mobile Client ab Version 1.13.2
 
 ## Neue Features
 - **Funktionsbereichsübergreifende Checklisten-Berechtigungen** <br>
