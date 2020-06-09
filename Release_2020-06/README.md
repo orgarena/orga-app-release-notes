@@ -7,7 +7,7 @@
 
 In diesem Update haben wir keine grundlegenden neuen Features integriert. Die Ideen-Liste ist aber lang und neue Features werden ganz sicher kommen. Aber wir haben weiter an der allgemeinen Qualität des ORGA App Systems gearbeitet.
 
-# Allgemeine Verbesserungen & Bugfixes
+## Allgemeine Verbesserungen & Bugfixes
 
 - **Name des Prüfberichts** <br>
 Als Name des Prüfberichts wird immer der Titel der aktuellen Veranstaltung verwendet. Wenn im Namen allerdings ein Punkt vorkam (bspw. 1. FC ...), wurde die PDF-Dateiendung nicht mit in den Dateinamen übernommen. Somit war der Bericht nicht als PDF erkennbar und konnte nicht einfach über einen Doppelklick geöffnet werden. Das klappt jetzt!
