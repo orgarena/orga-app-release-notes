@@ -17,7 +17,7 @@ Bisher sind die Trouble-Tickets einfach per Mail an die hinterlegten Adressaten 
 
 
 
-# Bugfixes & allgemeine Verbesserungen
+## Allgemeine Verbesserungen & Bugfixes
 
 - **Fehlermeldung bei Erstanmeldung** <br>
 Nach der initialen Anmeldung am System erschien bereits vor der Mandantenauswahl eine irritierende Meldung. Die war zwar nicht dramatisch, aber das ist nicht die feine Art. So begrüßt man seine Gäste nicht und daher haben wir dies korrigiert.

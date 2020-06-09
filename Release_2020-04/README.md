@@ -67,7 +67,7 @@ Die Markdown-Syntax bringt auch weitere Formatierungsmöglichkeiten mit sich. Bi
 - **Gast-User zulassen** <br>
 Nun können externe Mitarbeiter oder Dienstleiter ohne eigenes Benutzer-Konto beim Club über ihre Mail-Adresse im Azure Active Directory als Gastuser eingeladen werden und sich damit im ORGA App System anmelden.
 
-## Bugfixes & allgemeine Verbesserungen
+## Allgemeine Verbesserungen & Bugfixes
 
 - **Beschreibungsfeld der Aufgaben** <br>
 Dieses ist nun auch in der Bearbeitungsmaske mehrzeilig, sodass die Eingabe der Beschreibungstexte leichter von der Hand geht.
