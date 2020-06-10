@@ -4,7 +4,7 @@
 Die ORGA App lebt vom Imput unsere Kunden und Interessenten. Und wir sind stets dabei, neue Ideen und Anforderungen umzusetzen. Auf dieser Seite finden Sie die wichtigsten Informationen zu Änderungen und Erweiterungen unserer großen Programm-Updates.
 
 - **[Release 2020-06](Release_2020-06/)** <br>
-Wir weiter an der ORGA App gearbeitet und können ein neues Update ankündigen. <br>
+Wir haben weiter an der ORGA App gearbeitet. <br>
 Hier geht es zu den Details [Release 2020-06](Release_2020-06/)
 
 - **[Release 2020-05](Release_2020-05/)** <br>
