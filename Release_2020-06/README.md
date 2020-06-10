@@ -1,7 +1,7 @@
 # Neuigkeiten aus Release 2020-06
 
 * Desktop Client ab Version 1.9.0
-* Mobile Client ab Version 1.13.6
+* Mobile Client ab Version 1.13.7
 
 ## Neue Features
 
