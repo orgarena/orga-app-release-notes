@@ -22,7 +22,7 @@ Die Zuordnung der Checklisten zur Veranstaltung wurde optimiert, sodass dopplte 
 Diese Option konnte in der Aufgaben-Bearbeitung teilweise nicht wieder deaktiviert werden. Dies sollte nun jeder Zeit funktionieren.
 
 - **Aktualisierung Checklisten** <br>
-Wenn eine Checkliste nachträglich der Veranstaltung hinzugefügt wurde, hat sie auf weitere Stammdatenänderungen nicht richtig reagiert. Jetzt werden Änderungen auch in dieser KOnstellation übernommen. 
+Wenn eine Checkliste nachträglich der Veranstaltung hinzugefügt wurde, hat sie auf weitere Stammdatenänderungen nicht richtig reagiert. Jetzt werden Änderungen auch in dieser Konstellation übernommen. 
 
 - **Aktualisiserung der Rollen in der Veranstaltung** <br>
 Neu definierte Rollen standen in bereits angelegten Veranstaltungen nicht zur Verfügung. Jetzt können in den Funktionsbereichen jederzeit neue Rollen angelegt werden und dann auch sofort in aktuellen Veranstaltungen zum Einsatz kommen.
