@@ -21,7 +21,8 @@ Wir haben dafür gesorgt, dass die Themes in den Premium Paketen auch wieder ent
 Bisher konnte man Checklisten nur in andere Funktionsbereiche verschieben, wenn dort schon mindestens eine Checkliste vorhanden war.
 
 - **Dokument Berechtigungen** <br>
-Bisher konnte man als Funktionsbereichs-Admin auch Dokumente im Desktop Client sehen, die gar nicht für den eigenen Funktionsbereich freigegeben wurden. Wir haben dafür jetzt die "Bearbeiten-Berechtigungen" eingeführt.
+Bisher konnte man als Funktionsbereichs-Admin auch Dokumente im Desktop Client sehen, die gar nicht für den eigenen Funktionsbereich freigegeben wurden. Wir haben dafür jetzt die "Bearbeiten-Berechtigungen" eingeführt.<br>
+  
   ![Bearbeiten-Berechtigungen](Bilder/bearbeiten-berechtigung.png)
 
 - **Bezeichnung "Einlass" und "Beginn" individualisierbar** <br>
