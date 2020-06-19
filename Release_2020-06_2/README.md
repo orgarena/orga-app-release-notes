@@ -3,27 +3,27 @@
 * Desktop Client ab Version 1.X.X
 * Mobile Client ab Version 1.X.X
 
+## Neue Features
+- **Bezeichnung "Einlass" und "Beginn" individualisierbar** <br>
+Wann eine Veranstaltung beginnt, und wann der Einlass gewährt wird, sind elementare Referenzpunkte für die Steuerung aller Fälligkeiten und Erinnerungsfunktionen. Das bleibt auch so. Aber die Bezeichnungen "Einlass" und "Beginn" sind jetzt individualisierbar und können in den Mandanteneinstellungen konfiguriert werden. So kann beispielsweise aus "Beginn" - "Anpfiff" oder "Start" werden und aus "Einlass" - "Öffnung Arena-Innenraum".
+
+- **Dokument Berechtigungen** <br>
+Um den Alltagsanforderungen noch detaillierter entsprechen zu können, haben wir die explizite "Bearbeiten-Berechtigung" für Dokumente eingeführt. Damit können die bearbeitenden Anwender aus dem Back-Office noch einmal von den konsumierenden (also lesenden) Anwendern in der App unterschieden werden.<br>
+  
+  ![Bearbeiten-Berechtigungen](Bilder/bearbeiten-berechtigung.png)
+
 ## Allgemeine Verbesserungen & Bugfixes
 
 - **Sortierung der Checklisten und Aufgaben** <br>
 Checklisten und Aufgaben können via Drag & Drop beliebig sortiert werden. Wurde eine Checkliste oder eine Aufgabe nachträglich aktualisiert (z.B: Berechtigungen angepasst), dann wurde sie in der Liste immer oben neu einsortiert und die ursprünglich gewählte Position ging verloren.
 
-- **Themes wechseln** <br>
-Wenn man oft zwischen verschiedenen Mandanten hin und her gewechselt hat konnte es passierten, dass die Themes irgendwann nicht mehr gewechselt werden konnten.
-
 - **Checklisten Berechtigungen beim Kopieren einer Veranstaltung** <br>
-Beim Kopieren einer Veranstaltung konnte es vorkommen, dass einige Berechtigungen für die Checklisten nicht mit kopiert wurden.
+Beim Kopieren einer Veranstaltung konnte es vorkommen, dass Checklisten-Berechtigungen nicht übernommen wurden. Jetzt funktioniert es.
 
-- **Themes in Premium Paketen** <br>
-Wir haben dafür gesorgt, dass die Themes in den Premium Paketen auch wieder entsprechend geladen werden, wenn man vorher in einen anderen Mandanten gewechselt und sich dann ausgeloggt hat.
+- **Checklisten verschieben Funktion verbessert** <br>
+Bisher konnten Checklisten nur in andere Funktionsbereiche verschoben werden, wenn dort mindestens eine Checkliste als "Anker" vorhanden war. Jetzt geht es auch einfach
 
-- **Checklisten verschieben** <br>
-Bisher konnte man Checklisten nur in andere Funktionsbereiche verschieben, wenn dort schon mindestens eine Checkliste vorhanden war.
+- **Styling** <br>
+Beim Wechsel zwischen verschiedenen Mandanten konnte es passierten, dass die Styling-Informationen nicht mehr geladen und damit der Theme nicht gewechselt werden konnten. Das sollte jetzt klappen.
+Das Problem betraf nur Anwender, die in mehreren Mandanten freigeschaltet sind. Und auch in Premium Paketen wird wieder alles richtig dargestellt, selbst wenn zuvor in einen anderen Mandanten gewechselt wurde und ein Logout erfolgt.
 
-- **Dokument Berechtigungen** <br>
-Bisher konnte man als Funktionsbereichs-Admin auch Dokumente im Desktop Client sehen, die gar nicht für den eigenen Funktionsbereich freigegeben wurden. Wir haben dafür jetzt die "Bearbeiten-Berechtigungen" eingeführt.<br>
-  
-  ![Bearbeiten-Berechtigungen](Bilder/bearbeiten-berechtigung.png)
-
-- **Bezeichnung "Einlass" und "Beginn" individualisierbar** <br>
-Die Bezeichnungen "Einlass" und "Beginn" sind jetzt individualisierbar und können in den Mandanteneinstellungen konfiguriert werden.1
