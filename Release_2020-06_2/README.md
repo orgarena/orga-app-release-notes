@@ -1,7 +1,7 @@
 # Neuigkeiten aus Release 2020-06 | 2
 
-* Desktop Client ab Version 1.X.X
-* Mobile Client ab Version 1.X.X
+* Desktop Client ab Version 1.19.7
+* Mobile Client ab Version 1.13.9
 
 ## Neue Features
 - **Bezeichnung "Einlass" und "Beginn" individualisierbar** <br>
