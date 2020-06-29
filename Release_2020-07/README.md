@@ -22,3 +22,8 @@ Wir haben festgestellt, dass die Funktion des Buttons zum Einteilen (oder auch V
 
 - **Anlegen von Checklisten als Funktionsbereichs-Admin** <br>
 Es gab das Problem, dass Funktionsbreichs-Admins in manchen Fällen keine Checklisten aus ihrem eigenen FB zu einer Veranstaltung hinzufügen konnten. Dieses Problem wurde behoben.
+
+- **Prüfbericht für Funktionsbereiche und Checklisten** <br>
+Bisher wurden bei den Prüfberichten für einzelne Funktionsbereiche oder Checklisten auch nicht relevante Bereiche mit ausgegeben. Dies wurde nun angepasst und die Prüfberichte enthalten jetzt nur noch die jeweils gewünschten Daten.
+
+  ![Neues zuordnen Icon](Bilder/pruefbericht_checkliste.png)
