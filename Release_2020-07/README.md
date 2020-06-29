@@ -26,4 +26,4 @@ Es gab das Problem, dass Funktionsbreichs-Admins in manchen Fällen keine Checkl
 - **Prüfbericht für Funktionsbereiche und Checklisten** <br>
 Bisher wurden bei den Prüfberichten für einzelne Funktionsbereiche oder Checklisten auch nicht relevante Bereiche mit ausgegeben. Dies wurde nun angepasst und die Prüfberichte enthalten jetzt nur noch die jeweils gewünschten Daten.
 
-  ![Neues zuordnen Icon](Bilder/pruefbericht_checkliste.png)
+  ![Prüfbericht Checkliste](Bilder/pruefbericht_checkliste.png)
