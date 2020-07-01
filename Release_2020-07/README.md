@@ -27,3 +27,8 @@ Es gab das Problem, dass Funktionsbreichs-Admins in manchen Fällen keine Checkl
 Bisher wurden bei den Prüfberichten für einzelne Funktionsbereiche oder Checklisten auch nicht relevante Bereiche mit ausgegeben. Dies wurde nun angepasst und die Prüfberichte enthalten jetzt nur noch die jeweils gewünschten Daten.
 
   ![Prüfbericht Checkliste](Bilder/pruefbericht_checkliste.png)
+
+- **Gruppierung der Hauptmenüpunkte im Desktop Client** <br>
+In Vorbereitung auf kommende neue Funktionen haben wir das Hauptmenü im Desktop Client in die beiden Gruppen "Verwaltung" und "Operativ" unterteilt. Im Moment gibt es unter Operativ nur die Funk Protokollierung, aber bald werden dort weitere neue Funktionen zu finden sein.
+
+  ![Menü Gruppierung](Bilder/menu_gruppen.png)
