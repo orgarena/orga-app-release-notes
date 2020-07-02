@@ -6,29 +6,29 @@
 ## Allgemeine Verbesserungen & Bugfixes
 
 - **Anzeige der Stati für Rot/Grün-Schwäche optimiert** <br>
-In der App wird durch rot und grün hinterlegte Counter angezeigt, wieviele Aufgaben einer Checkliste als Nich-OK bzw. OK gebucht wurden. Menschen mit Rot/Grün-Schwäche können diese Counter nicht unterscheiden. Wir haben diese Counter deshalb mit entsprechenden Icons versehen
+In der App wird durch rot und grün hinterlegte Counter angezeigt, wie viele Aufgaben einer Checkliste als Nicht-OK bzw. OK gebucht wurden. Menschen mit einer Rot/Grün-Schwäche können diese Counter nicht unterscheiden. Wir haben diese Counter deshalb mit entsprechenden Icons versehen, um den Unterschied für alle hervorzuheben.
 
   ![Counter mit Icons](Bilder/counter-mit-icons.png)
 
-- **Anzeige des Funktionsbereichs bei neuen Checklisten** <br>
-Beim Anlegen einer neuen Checkliste wurde bisher nicht der gewählte Funktionsbreich angezeigt. Um eine bessere Orientierung zu bieten, wird der Funktionsbreich nun über dem Titel der Checkliste angezeigt.
+- **Anzeige des Funktionsbereiches bei neuen Checklisten** <br>
+Beim Anlegen einer neuen Checkliste wurde bisher der gewählte Funktionsbereich nicht angezeigt. Um eine bessere Orientierung zu bieten, wird der Funktionsbreich nun über dem Titel der Checkliste eingeblendet.
 
   ![Checkliste mit Funktionsbereich](Bilder/checkliste-fb-anzeige.png)
 
 - **Mitarbeiter einteilen - Icon ausgetauscht** <br>
-Wir haben festgestellt, dass die Funktion des Buttons zum Einteilen (oder auch Verknüpfen) der Mitarbeiter im Dienstplan aufgrund des Icons von einigen Anwendern nicht erkannt wurde. Das Icon wurde eher als Station anstatt als Link Symbol wahrgenommen. Mit dem neuen Icon sollte das etwas deutlicher sein.
+Wir haben festgestellt, dass die Funktion des Buttons zum Einteilen (oder auch Verknüpfen) der Mitarbeiter im Dienstplan aufgrund des Icons von einigen Anwendern nicht erkannt wurde. Das Icon wurde eher als Station anstatt als Link-Symbol wahrgenommen. Mit dem neuen Icon sollte das deutlicher sein.
 
   ![Neues zuordnen Icon](Bilder/zuordnen_icon.png)
 
 - **Anlegen von Checklisten als Funktionsbereichs-Admin** <br>
-Es gab das Problem, dass Funktionsbreichs-Admins in manchen Fällen keine Checklisten aus ihrem eigenen FB zu einer Veranstaltung hinzufügen konnten. Dieses Problem wurde behoben.
+Es gab den Fall, dass die Funktionsbereichs-Admins manchmal keine Checklisten aus ihrem eigenen FB zu einer Veranstaltung hinzufügen konnten. Dieses wurde entsprechend optimiert.
 
 - **Prüfbericht für Funktionsbereiche und Checklisten** <br>
-Bisher wurden bei den Prüfberichten für einzelne Funktionsbereiche oder Checklisten auch nicht relevante Bereiche mit ausgegeben. Dies wurde nun angepasst und die Prüfberichte enthalten jetzt nur noch die jeweils gewünschten Daten.
+Bisher wurden bei den Prüfberichten für einzelne Funktionsbereiche oder Checklisten auch nicht relevante Bereiche mit ausgegeben. Dies wurde angepasst und die Prüfberichte enthalten jetzt nur noch die jeweils gewünschten Daten.
 
   ![Prüfbericht Checkliste](Bilder/pruefbericht_checkliste.png)
 
 - **Gruppierung der Hauptmenüpunkte im Desktop Client** <br>
-In Vorbereitung auf kommende neue Funktionen haben wir das Hauptmenü im Desktop Client in die beiden Gruppen "Verwaltung" und "Operativ" unterteilt. Im Moment gibt es unter Operativ nur die Funk Protokollierung, aber bald werden dort weitere neue Funktionen zu finden sein.
+In Vorbereitung auf kommende neue Funktionen haben wir das Hauptmenü im Desktop Client zu besseren Übersichtlichkeit um eine Gruppierungsebene erweitert. Konkret wurden die beiden Gruppen "Verwaltung" und "Operativ" eingeführt. Unter Operativ befindet sich aktuell nur die Funkprotokollierung, aber zukünftig werden dort weitere neue Funktionen zu finden sein.
 
   ![Menü Gruppierung](Bilder/menu_gruppen.png)
