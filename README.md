@@ -3,6 +3,10 @@
 ## Willkommen auf der Release-Notes Seite der ORGA App
 Die ORGA App lebt vom Imput unsere Kunden und Interessenten. Und wir sind stets dabei, neue Ideen und Anforderungen umzusetzen. Auf dieser Seite finden Sie die wichtigsten Informationen zu Änderungen und Erweiterungen unserer großen Programm-Updates.
 
+- **[Release 2020-07](Release_2020-07/)** <br>
+Basierend auf den Feedbacks im Rahmen der aktiven ORGA App Nutzung wurde die Usability an einigen wichtigen Stellen verbessert. <br>
+Hier geht es zu den Details [Release 2020-07](Release_2020-07/)
+
 - **[Release 2020-06 | 2](Release_2020-06_2/)** <br>
 Ein paar kleine aber feine Erweiterungen, die der ORGA App und damit natürlich in erster Linie den Anwendern gut tun werden. <br>
 Hier geht es zu den Details [Release 2020-06 | 2](Release_2020-06_2/)
