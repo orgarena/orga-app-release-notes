@@ -1,3 +1,7 @@
+---
+layout: release
+---
+
 # Neuigkeiten aus Release 2020-06
 
 * Desktop Client ab Version 1.9.0
