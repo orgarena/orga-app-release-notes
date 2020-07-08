@@ -1,5 +1,5 @@
 ---
-layout: release
+layout: default
 ---
 
 # Neuigkeiten aus Release 2020-07
