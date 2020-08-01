@@ -5,7 +5,7 @@ Die ORGA App lebt vom Imput unsere Kunden und Interessenten. Und wir sind stets 
 
 - **[Release 2020-07 | 2](Release_2020-07_2/)** <br>
 Mit diesem Update können die Checklisten endlich auch in der Desktop-Version (Backend) bearbeitet werden. <br>
-Hier geht es zu den Details [Release 2020-07](Release_2020-07/)
+Hier geht es zu den Details [Release 2020-07 | 2](Release_2020-07_2/)
 
 - **[Release 2020-07](Release_2020-07/)** <br>
 Basierend auf den Feedbacks im Rahmen der aktiven ORGA App Nutzung wurde die Usability an einigen wichtigen Stellen verbessert. <br>
