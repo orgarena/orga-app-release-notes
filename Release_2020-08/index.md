@@ -10,6 +10,6 @@ layout: release
 ## Neue Features
 
 - **Erweiterung des Funkprotokolls** <br>
-Da es zu einem Thema oft mehrere Meldungen gibt, können Diese jetzt in "Fälle" zusammengefasst werden werden. Die Fälle könnnen zudem mit einer Erinnerung versehen werden und damit die Liste der aktuellen Fälle übersichtlich bleibt, können Diese auch als abgeschlossen markiert werden.
+Da es zu einem Thema oft mehrere Meldungen gibt, können Diese jetzt in "Fälle" zusammengefasst werden. Die Fälle könnnen zudem mit einer Erinnerung versehen werden. Damit die Liste der aktuellen Fälle übersichtlich bleibt, können Diese auch als abgeschlossen markiert werden.
   
   ![Funkprotokoll](Bilder/funkprotokoll.gif)
