@@ -3,6 +3,10 @@
 ## Willkommen auf der Release-Notes Seite der ORGA App
 Die ORGA App lebt vom Imput unsere Kunden und Interessenten. Und wir sind stets dabei, neue Ideen und Anforderungen umzusetzen. Auf dieser Seite finden Sie die wichtigsten Informationen zu Änderungen und Erweiterungen unserer großen Programm-Updates.
 
+- **[Release 2020-09](Release_2020-09/)** <br>
+Mit diesem Release können Pandemie-Level abgefragt und für Veranstaltungen eingestellt werden. Entsprechend vorbereitete Aufgaben kann man damit mit wenigen Klicks aktiviert bzw. deaktiviert und somit schnell auf neue Situationen reagieren. <br>
+Hier geht es zu den Details [Release 2020-08](Release_2020-09/)
+
 - **[Release 2020-08](Release_2020-08/)** <br>
 Funkprotokollierung - Jetzt auch mit mehreren Meldungen zu den einzelnen Fällen. <br>
 Hier geht es zu den Details [Release 2020-08](Release_2020-08/)
