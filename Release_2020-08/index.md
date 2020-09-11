@@ -4,7 +4,7 @@ layout: release
 
 # Neuigkeiten aus Release 2020-08
 
-* Desktop Client ab Version 1.20.2
+* Desktop Client ab Version 1.20.4
 * Mobile Client ab Version 1.13.10
 
 ## Neue Features
