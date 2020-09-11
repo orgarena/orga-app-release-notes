@@ -5,7 +5,7 @@ Die ORGA App lebt vom Imput unsere Kunden und Interessenten. Und wir sind stets 
 
 - **[Release 2020-09](Release_2020-09/)** <br>
 Mit diesem Release können Pandemie-Level abgefragt und für Veranstaltungen eingestellt werden. Entsprechend vorbereitete Aufgaben kann man damit mit wenigen Klicks aktivieren bzw. deaktivieren und somit schnell auf neue Situationen reagieren. <br>
-Hier geht es zu den Details [Release 2020-08](Release_2020-09/)
+Hier geht es zu den Details [Release 2020-09](Release_2020-09/)
 
 - **[Release 2020-08](Release_2020-08/)** <br>
 Funkprotokollierung - Jetzt auch mit mehreren Meldungen zu den einzelnen Fällen. <br>
