@@ -20,6 +20,14 @@ In diesem Release haben wir eine Funktion eingebaut die es ermöglicht, die soge
     
   ![Funkprotokoll](Bilder/aufgaben_deaktiviert.png)
   
-    Danach kann das Pandemie-Level (für einen bestimmten Stichtag) abgefragt und für die Veranstaltung festgelegt werden. Durch die Abfrage wird ein Pandemie-Level vorgeschlagen. Es kann bei Bedarf aber auch ein anderes Level eingestellt werden. Durch das Einstellen eines Levels werden die im vorherigen Schritt genannten Aufgaben entsprechend de/aktiviert:
+    Danach kann das Pandemie-Level (für einen bestimmten Stichtag) abgefragt und für die Veranstaltung festgelegt werden:
     
-  ![Funkprotokoll](Bilder/veranstaltung_level_einstellen.gif)   
+  ![Funkprotokoll](Bilder/level_abfragen.gif)   
+  
+    Durch diese Abfrage wird ein Pandemie-Level vorgeschlagen. Durch das Einstellen eines Levels werden die im vorherigen Schritt genannten Aufgaben entsprechend aktiviert:
+
+  ![Funkprotokoll](Bilder/vorgeschlagenen_level_einstellen.gif)
+  
+    Es kann bei Bedarf aber auch ein anderes Level eingestellt werden. Die Aufgaben werden dann entsprechend de/aktiviert:
+  
+  ![Funkprotokoll](Bilder/andere_level_einstellen.gif)   
