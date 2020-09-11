@@ -10,7 +10,7 @@ layout: release
 ## Neue Features
 
 - **Pandemie-Level** <br>
-In diesem Release haben wir eine Funktion eingebaut die es ermöglicht, die sogenannten Pandemie-Level der angrenzenden Landkreise abzufragen und damit verschiedene, auf diese Level angepasste Aufgaben, zentral für eine Veranstaltung zu de/aktievieren. 
+In diesem Release haben wir eine Funktion eingebaut die es ermöglicht, die sogenannten Pandemie-Level der angrenzenden Landkreise abzufragen und damit verschiedene, auf diese Level angepasste Aufgaben, zentral für eine Veranstaltung zu de/aktivieren. 
 
     Zuerst wird den Aufgaben ein (oder auch mehrere) Pandemie-Level zugewiesen:
   
