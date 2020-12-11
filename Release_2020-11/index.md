@@ -9,12 +9,10 @@ layout: release
 
 ## Neue Features
 
-Nach diesem Update wurde nicht gefragt. Es gibt keine bahnbrechenden neuen Features und nichts wirklich Besonderes. <br>
-Aber es gab ein erklärtes Ziel: <br>
+Nach diesem Update wurde nicht gefragt. Es gibt keine bahnbrechenden neuen Features und nichts wirklich Besonderes.
+Aber es gab ein erklärtes Ziel:
 
 <b>Wir wollten die ORGA App noch bedienbarer und trotz stetig wachsendem Funktionsumfang noch einfacher und effizienter in der Handhabung machen.</b> 
-
-<br>
 
 Ob uns das gelunden ist, können am Ende nur die Anwender beurteilen. Aber folgende Änderungen haben wir für euch "im Gepäck":
 
