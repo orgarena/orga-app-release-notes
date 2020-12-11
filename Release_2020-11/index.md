@@ -48,6 +48,7 @@ Die Datumspicker zeigen nun auch Kalenderwochen an und starten bei Montag - wie 
 ## Allgemeine Verbesserungen & Bugfixes
 
 Ihr erkennt es auch an der Release-Bezeichnung 2020-<b>11</b>. Wo ist die 10? <br>
-Wir versuchen jeden Monat ein neues Release rauszubringen. Aber die 10 gibt es nicht. So lange haben wir für euch an der <b>11</b> gearbeitet. Weit über hundert einzelnen Punkte wurde unter der Haube korrigiert, optimiert oder im Sinner einer besseren Wartbarkeit verbssert. Wenn ihr nichts davon merkt, haben wir unseren Job gemacht. Sollte euch dennoch was auffallen, gebt uns bitte ein Feedback und wir kümmern uns darum. Versprochen!
+Wir versuchen jeden Monat ein neues Release rauszubringen. Aber die 2020-<b>10</b> gibt es nicht. So intensiv haben wir für euch an der <b>11</b> gearbeitet. Weit über hundert einzelne Punkte wurde korrigiert, optimiert oder deren Wartbarkeit verbssert. 
+Sollten euch die Kleinigkeiten gefallen, haben wir unseren Job gemacht. Sollte euch dennoch etwas missfallen, gebt uns bitte ein Feedback und wir kümmern uns darum. Versprochen!
 
 <b>Probiert das neue Backend aus. Demnächst ist die mobile ORGA App dran!</b>
