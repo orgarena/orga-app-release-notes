@@ -51,4 +51,4 @@ Ihr erkennt es auch an der Release-Bezeichnung 2020-<b>11</b>. Wo ist die 10? <b
 Wir versuchen jeden Monat ein neues Release rauszubringen. Aber die 2020-<b>10</b> gibt es nicht. So intensiv haben wir für euch an der <b>11</b> gearbeitet. Weit über hundert einzelne Punkte wurde korrigiert, optimiert oder deren Wartbarkeit verbssert. 
 Sollten euch die Kleinigkeiten gefallen, haben wir unseren Job gemacht. Sollte euch dennoch etwas missfallen, gebt uns bitte ein Feedback und wir kümmern uns darum. Versprochen!
 
-<b>Probiert das neue Backend aus. Demnächst ist die mobile ORGA App dran!</b>
+<b>Probiert das neue Backend aus. Demnächst ist die mobile ORGA App dran! Dann sicher auch wieder mehr funktionalen Erweiterungen.</b>
