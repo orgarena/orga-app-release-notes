@@ -10,7 +10,8 @@ layout: release
 ## Neue Features
 
 Nach diesem Update wurde nicht gefragt. Es gibt keine bahnbrechenden neuen Features und nichts wirklich Besonderes. <br>
-Aber es gab ein erklärtes Ziel:<br>
+Aber es gab ein erklärtes Ziel: <br>
+
 <b>Wir wollten die ORGA App noch bedienbarer und trotz stetig wachsendem Funktionsumfang noch einfacher und effizienter in der Handhabung machen.</b> 
 Ob uns das gelunden ist, können am Ende nur die Anwender beurteilen. Aber folgende Änderungen haben wir für euch "im Gepäck":
 
@@ -25,9 +26,9 @@ Wir haben die interne Lademechanismen optimiert und können so Benutzeranfragen 
 
 - **Optimierter Benachritigungsmechanismus** <br>
 Wir haben die Aufgabenerinnerungen erweitert, sodass jetzt Tag und Uhrzeit getrennt voneinander einstellbar sind. Damit lässt sich jede erdenkliche Situation abbilden: 
--- Relativer Tag - feste Uhrzeit: Immer 2 Tage vor Veranstaltungsbeginn um 15:00 Uhr<br>
--- Fester Tag - fest Uhrzeit: Immer Montags nach dem Spiel um 8:00 Uhr<br>
--- Relativer Tag - relative Uhrzeit: Immer 1 Tag und 3 Stunden vor Einlass<br>
+-- Relativer Tag - feste Uhrzeit: Immer 2 Tage vor Veranstaltungsbeginn um 15:00 Uhr <br>
+-- Fester Tag - fest Uhrzeit: Immer Montags nach dem Spiel um 8:00 Uhr <br>
+-- Relativer Tag - relative Uhrzeit: Immer 1 Tag und 3 Stunden vor Einlass <br>
 -- Fester Tag - relative Uhrzeit: Immer Freitags vor der Veranstaltung 3 Stunden vor Anpfiff 
 
 - **Konsistentes Layout** <br>
