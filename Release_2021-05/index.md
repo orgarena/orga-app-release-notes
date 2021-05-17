@@ -23,13 +23,13 @@ Die Vorteile der mobilen Version liegen auf (oder besser in) der Hand: Das Smart
 
 ![Funkprotokoll](Bilder/zentrale-abteilung-meins.png)
 
-Wir haben die unterscheidlichen Bereiche des Incident Managements analog zum Veranstaltungsbereich in einer übersichtlichen Reiter-Ansicht zusammengefasst.
+Wir haben die unterschiedlichen Bereiche des Incident Managements analog zum Veranstaltungsbereich in einer übersichtlichen Reiter-Ansicht zusammengefasst.
 
 - **Zentrale Leitstelle**<br>
 Hier landen zunächst alle Fälle im *Eingang*. Im ersten Schritt wird die Verantwortung für die Abarbeitung an den Fachbereich übertragen. Die bereits zugeordneten Fälle tauchen dann unter *Verantwortung* auf.
 
 - **Abteilungsleitstand**<br>
-Auf der fachlichen Ebene werden die dispatchten Fälle wiederum zunächst im *Eingang* angezeigt und von hier weiter an das Team zur Abarbeitung delegiert (siehe *Verantwortung*).
+Auf der fachlichen Ebene werden die von der Zentrale weitergeleiteten Fälle wiederum zunächst im *Eingang* angezeigt und von hier weiter an das Team zur Abarbeitung delegiert (siehe *Verantwortung*).
 
 - **Meine Aufgaben**<br>
 Unter dem Reiter "Meine" laufen alle Fälle auf, die aus Anwendersicht dem eigenen Team zur Abarbeitung übertragen wurden. Einer aus dem Team übernimmt dann den Fall aus dem "Team-Pool" zur Bearbeitung und entscheidet: "ist OK" oder "ist nicht OK".
@@ -38,7 +38,7 @@ Unter dem Reiter "Meine" laufen alle Fälle auf, die aus Anwendersicht dem eigen
 <br>
 
 ## Externe Benutzer
-Mitarbeiter externe Dienstleister wie Monteure, Order, Caterer, etc. haben in der Regel kein eigenes Benutzerkonto im Club-Mandanten. Dennoch möchte man ihnen Checklisten und Aufgaben zuweisen können. Wichtig dabei, insbesondere aus Datenschutzgründen: Eine sichere Authentifizierung und die administartive Entscheidungshoheit der Club-IT.
+Mitarbeiter externe Dienstleister wie Monteure, Order, Caterer, etc. haben in der Regel kein eigenes Benutzerkonto im Club-Mandanten. Dennoch möchte man ihnen Checklisten und Aufgaben zuweisen können. Wichtig dabei, insbesondere aus Datenschutzgründen: Eine sichere Authentifizierung und die administrative Entscheidungshoheit der Club-IT.
 
 Jetzt können externe Benutzer in das Club-AAD als Gast-User eingebunden werden und sich so im MobileClient der ORGA App authentifizieren. Der Benutzer muss dem Zugriff der App auf sein Benutzerkonto zustimmen. 
 
@@ -49,7 +49,7 @@ Welche Inhalte für externe Benutzer sichtbar sind, wird analog zu den internen 
 
 
 ## Neues Funkprotokoll-Layout
-Das Funkprotokoll erstrahlt im neuen Gewand. Wir haben einige Layout-Elemente aus dem neuen Incident Mangement auch im Funkprotokoll verbaut, sodass das Look & Feel für die Anwender konsistent und benutzerfreundlich ist. Schaut einfach mal rein...
+Das Funkprotokoll erstrahlt im neuen Gewand. Wir haben einige Layout-Elemente aus dem neuen Incident Management auch im Funkprotokoll verbaut, sodass das Look & Feel für die Anwender konsistent und benutzerfreundlich ist. Schaut einfach mal rein...
 
 
 
