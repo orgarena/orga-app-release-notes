@@ -3,6 +3,10 @@
 ## Willkommen auf der Release-Notes Seite der ORGA App
 Die ORGA App lebt vom Imput unserer Kunden und Interessenten. Und wir sind stets dabei, neue Ideen und Anforderungen umzusetzen. Auf dieser Seite finden Sie die wichtigsten Informationen zu Änderungen und Erweiterungen unserer großen Programm-Updates.
 
+- **[Release 2021-06](Release_2021-06/)** <br>
+DesktopClient mit allen Infos! Alles was im MobileClient an Infos zur Verfügung steht, kann jetzt auch komfortabel vom PC Arbeitsplatz genutzt werden.<br>
+Hier geht es zu den Details [Release 2021-06](Release_2021-06/)
+
 - **[Release 2021-05](Release_2021-05/)** <br>
 Incident Management goes mobil<br>
 Hier geht es zu den Details [Release 2021-05](Release_2021-05/)
