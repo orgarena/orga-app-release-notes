@@ -23,7 +23,7 @@ Ab jetzt gibt es all diese Informationen auch im DesktopClient!
 
 ![Desktop-Version](Bilder/desktop-version.jpg)
 
-_Hinweis: Der zuvor eigenständige Checklisten & Aufgaben Teil aus dem operativen Bereich wurde hier vollständig integreiert. So müssen die Anwender nicht zwischen unterschiedlichen Seiten hin nd her wechseln._
+_Hinweis: Der zuvor eigenständige Checklisten & Aufgaben Teil aus dem operativen Bereich wurde hier vollständig integriert. So müssen die Anwender nicht zwischen unterschiedlichen Seiten hin und her wechseln._
 
 <br>
 <br>
@@ -32,7 +32,7 @@ _Hinweis: Der zuvor eigenständige Checklisten & Aufgaben Teil aus dem operative
 Obwohl wir uns mit diesem Release auf den DesktopClient konzentriert haben, gibt es dennoch einigen Neuerungen für die App und an anderen Stellen.
 <br>
 
-- **Eskalatioen an VL**<br>
+- **Eskalationen an VL**<br>
 Der Veranstaltungsleiter wurde bisher nur über den Bearbeitungsstand von Aufgaben informiert, wenn diese _nicht ok_ gemeldet wurden. Jetzt ist darüber hinaus für jede Aufgabe eine Eskalation an den Veranstaltungsleiter einstellbar.<br>
 ![Veranstaltungsleiter](Bilder/vl.jpg)
 
@@ -52,7 +52,7 @@ Aufgaben konnten schon lange als optional gekennzeichnet werden, aber sie wurden
 Zur besseren Übersicht haben wir an unterschiedlichen Stellen das Incident Management mit Countern ausgestattet, sodass stehts die Anzahl (insbesondere der offenen Fälle) überblickt werden kann.
 
 - **Bearbeitungsfunktion**<br>
-Titel und BEschreibung der Incidents waren bis dato fix. Aber natürlich will man auch mal kleine Änderungen vornehmen oder einfach nur einen Tippfehler korrigieren. Das geht jetzt.
+Titel und Beschreibung der Incidents waren bis dato fix. Aber natürlich will man auch mal kleine Änderungen vornehmen oder einfach nur einen Tippfehler korrigieren. Das geht jetzt.
 ![Bearbeitung](Bilder/incident.jpg)
 
 - **Veranstaltung statt Spieltag**<br>
